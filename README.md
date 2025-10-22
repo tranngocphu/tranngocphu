@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 I’m a Research Associate at Mayo Clinic Arizona in the BEACON RIAZ AI Lab, where I build and research AI systems that streamline clinical workflows and help improve patient outcomes.
 
