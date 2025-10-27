@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m a Research Associate/AI Engineer at Mayo Clinic Arizona in the BEACON RIAZ AI Lab, where I research, build, and deploy AI systems that streamline clinical workflows and help improve patient outcomes.
+I’m a Research Associate/AI Engineer at Mayo Clinic Arizona in the BEACON RIAZ AI Lab, where I research, build, and deploy AI (LLM-based) systems that streamline clinical workflows and help improve patient outcomes.
 
 Please reach out to me at [tran.phu@mayo.edu](mailto:tran.phu@mayo.edu) or [DM me on LinkedIn](https://www.linkedin.com/in/phungoctran/)
 
