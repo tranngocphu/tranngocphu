@@ -2,7 +2,7 @@
 
 I’m a Research Associate/AI Engineer at Mayo Clinic Arizona in the BEACON RIAZ AI Lab, where I build and research AI systems that streamline clinical workflows and help improve patient outcomes.
 
-Please reach out to me at [tran.phu@mayo.edu](mailto:tran.phu@mayo.edu) or [DM me on LinkedIn](https://www.linkedin.com/in/phunngoctran/)
+Please reach out to me at [tran.phu@mayo.edu](mailto:tran.phu@mayo.edu) or [DM me on LinkedIn](https://www.linkedin.com/in/phungoctran/)
 
 <!--
 **tranngocphu/tranngocphu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
