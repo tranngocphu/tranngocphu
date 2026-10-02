@@ -1,8 +1,8 @@
 # Hi there 👋
 
-I’m a Research Associate/AI Engineer at Mayo Clinic Arizona in the BEACON RIAZ AI Lab, where I research, build, and deploy end-to-end AI (LLM-based) systems that streamline clinical workflows and help improve patient outcomes.
+I'm currently a Senior Machine Learning Engineer at Adobe.
 
-Please reach out to me at [tran.phu@mayo.edu](mailto:tran.phu@mayo.edu) or [DM me on LinkedIn](https://www.linkedin.com/in/phungoctran/)
+Please reach out to me at [phut@adobe.com](mailto:phut@adobe.com) or [DM me on LinkedIn](https://www.linkedin.com/in/phungoctran/)
 
 <!--
 **tranngocphu/tranngocphu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
